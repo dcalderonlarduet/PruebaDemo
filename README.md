@@ -32,6 +32,8 @@
 
 •	Código encapsulado y disponible para la reutilización.
 
+# Se realizaron 2 pruebas Unitarias a la clase Demo
+
 # Este es el script para la BD, Se realizo en Postgres 9.0
 
 CREATE TABLE trazas
