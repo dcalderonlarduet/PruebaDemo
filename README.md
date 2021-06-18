@@ -20,6 +20,8 @@
 
 10-Se debe cerrar la conexión una vez finalizada la operación.
 
+11-Variables inicializadaas innecesariamente y sin valor de uso.
+
 # Refactorización que debería realizarse
 
 •	Clases con demasiadas funciones: clases con demasiadas funciones definidas como método, que hacen que adaptar el software se vuelva casi imposible.
