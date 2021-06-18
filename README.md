@@ -1,4 +1,4 @@
-# Respuesta 1
+# Respuestas
 
 1-Se debe retirar la cadena de conexión y crearla en una clase independiente.
 
