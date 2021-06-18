@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-18T22:13:00.185501200Z</date>
+  <millis>1624054380185</millis>
+  <nanos>501200</nanos>
+  <sequence>0</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.prueba.demo.Util.Demo</class>
+  <method>LogMessage</method>
+  <thread>1</thread>
+  <message>MENSAJE Docker</message>
+</record>
+<record>
+  <date>2021-06-18T22:13:00.297501700Z</date>
+  <millis>1624054380297</millis>
+  <nanos>501700</nanos>
+  <sequence>1</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.prueba.demo.Util.Demo</class>
+  <method>LogMessage</method>
+  <thread>1</thread>
+  <message>MENSAJE Docker</message>
+</record>
+</log>

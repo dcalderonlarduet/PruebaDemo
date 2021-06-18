@@ -1,0 +1,10 @@
+
+K
+java:S1481")Remove this unused "demo" local variable.(’‘Î‰şÿÿÿÿ8“¶œ¢/
+T
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8“¶œ¢/
+Z
+java:S1854"8Remove this useless assignment to local variable "demo".(’‘Î‰şÿÿÿÿ8“¶œ¢/
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(ê”¼Ş8“¶œ¢/
+F
+java:S2440"$Remove this instantiation of "Demo".(’‘Î‰şÿÿÿÿ8ß¤Ò¢/

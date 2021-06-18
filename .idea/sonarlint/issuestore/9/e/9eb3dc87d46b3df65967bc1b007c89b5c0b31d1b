@@ -1,0 +1,11 @@
+
+]	java:S125$"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿ8¿¢/
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "conn".(şÎÁ˜şÿÿÿÿ8ÌÇ¬„¢/
+T
+java:S1135*"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¿¢/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÚ±¼ùÿÿÿÿ8¿¢/
+T
+java:S1135#"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¿¢/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÛğº
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ì½œ8¿¢/
