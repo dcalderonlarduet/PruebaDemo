@@ -6,8 +6,7 @@ import com.prueba.demo.Util.Demo;
 public class PruebaDemo {
 
     public static void main(String[] args) {
-        System.out.println("hola");
-
+        System.out.println("Iniciando App");
         try {
             Demo demo = new Demo(true,true,true,true,true,true);
             Demo.LogMessage("MENSAJE Docker", true, false, false);
